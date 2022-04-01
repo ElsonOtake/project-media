@@ -1,6 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .image-header {
@@ -16,4 +17,10 @@
     width: 400px;
     height: 30px;
     border: 1px solid black;
+}
+
+.left-header, .middle-header, .right-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
 }
