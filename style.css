@@ -32,3 +32,9 @@ body {
 .video {
     margin: 20px;
 }
+
+.statistics {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
