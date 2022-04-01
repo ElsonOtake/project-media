@@ -13,7 +13,7 @@ body {
     width: auto;
 }
 
-.content {
+.content, .sugestion {
     display: flex;
 }
 
@@ -43,4 +43,18 @@ body {
     width: 200px;
     height: auto;
     margin-right: 8px;
+}
+
+.sugestion {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.author {
+    margin-top: 8px;
+    margin-bottom: 4px;
 }
