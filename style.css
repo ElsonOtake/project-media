@@ -11,3 +11,9 @@
 .content {
     display: flex;
 }
+
+#search {
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+}
