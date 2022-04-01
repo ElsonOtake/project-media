@@ -38,3 +38,9 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.mini {
+    width: 200px;
+    height: auto;
+    margin-right: 8px;
+}
