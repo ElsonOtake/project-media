@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-header {
+    height: 30px;
+    width: auto;
+}
+
+.content {
+    display: flex;
+}
